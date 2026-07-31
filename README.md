@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SleepTracker — Vue 3 + ASP.NET Core + MySQL
 
 ## Estrutura do projeto
@@ -70,3 +71,6 @@ App disponível em: `http://localhost:5173`
 **Frontend:** Vue 3, Vue Router, Pinia, Axios, Tailwind CSS, ApexCharts  
 **Backend:** ASP.NET Core 9, Entity Framework Core, Pomelo MySQL, JWT, BCrypt, Swagger  
 **Banco:** MySQL 8+
+=======
+# SleepTracker
+>>>>>>> cdde104e1c73c4fb9621673c47d950c17c817817
